@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layout</string>
+    <string name="txt_datos">Datos</string>
+    <string name="hint_nombre">Introduce tu nombre</string>
+    <string name="hint_email">Introduce tu Em@il</string>
+    <string name="hint_domicilio">Introduce tu direcciòn </string>
+    <string name="horario">Horario </string>
+    <string name="horario_tc">Tiempo completo </string>
+    <string name="horario_mt">Medio tiempo </string>
+    <string name="btn_guardar">Guardar </string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string-array name="cbx_depar">
+        <item>Sistemas </item>
+        <item>Redes </item>
+        <item>Sistemas </item>
+        <item>Soporte tècnico </item>
+        <item>RH </item>
+
+
+
+    </string-array>
+
+
+</resources>
